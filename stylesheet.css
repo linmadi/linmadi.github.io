@@ -55,6 +55,22 @@ section h2 {
 	height: auto;
 }
 
+.weblink {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+#about {
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+}
+
 footer {
 	background-color: #ccc;
 	padding: 20px;
