@@ -7,18 +7,20 @@ body {
 p {
 	font-size: small;
 	margin: 0;
-	color: #464947
+	color: #403239
 }
 
 header {
 	background-color: #F28A80;
 	font-family: "Rozha One", serif;
+	text-align: center;
 	color: #FAEDDC;
 	padding: 30px;
 }
 
 header h1 {
 	margin: 0;
+	font-size: large;
 	padding: 17px;
 }
 
@@ -50,7 +52,16 @@ section {
 
 section h2 {
 	margin: 0;
+	color: #293D3B;
+	font-weight: 500;
+	font-size: medium;
 }
+
+section h3 {
+	margin: 0;
+	color: #403239;
+}
+
 
 .project {
 	display: inline-block;
@@ -70,17 +81,17 @@ section h2 {
 }
 
 a:hover {
-	color: #F28A80;
+	color: #D96C6C;
 }
 
 #about {
-	background-color: #f2f2f2;
+	background-color: #F2E5D5;
 	padding: 20px;
 	text-align: center;
 }
 
 .gallery {
-	width: 500px;
+	width: 100%;
 	overflow-x: auto;
 	white-space: nowrap;
 }
