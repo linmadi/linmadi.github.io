@@ -7,7 +7,8 @@ body {
 p {
 	font-size: small;
 	margin: 0;
-	color: #403239
+	color: #7B6765;
+	font-weight: 200;
 }
 
 header {
@@ -20,7 +21,6 @@ header {
 
 header h1 {
 	margin: 0;
-	font-size: large;
 	padding: 17px;
 }
 
@@ -52,9 +52,8 @@ section {
 
 section h2 {
 	margin: 0;
-	color: #293D3B;
-	font-weight: 500;
-	font-size: medium;
+	color: #D96C6C;
+	font-family: "Rohza One", serif;
 }
 
 section h3 {
@@ -81,7 +80,7 @@ section h3 {
 }
 
 a:hover {
-	color: #D96C6C;
+	color: #F28A80;
 }
 
 #about {
@@ -110,7 +109,7 @@ a:hover {
   
 
 footer {
-	background-color: #ccc;
+	background-color: #FAEDDC;
 	padding: 20px;
 	text-align: center;
 }
